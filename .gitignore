@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+mvp/.venv/
+
+# Environment files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+mvp/logs/
+
+# SQLite DB
+mvp/database/*.db
+
+# pytest
+.pytest_cache/
+

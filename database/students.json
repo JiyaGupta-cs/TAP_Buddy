@@ -1,0 +1,62 @@
+[
+    {
+    "student_id": "S1001",
+    "name": "Ravi Kumar",
+    "phone": "+919876543210",
+    "language": "Hindi",
+    "course": "Python Basics",
+    "days_inactive": 7,
+    "progress": 42,
+    "pending_assignments": 3
+  },
+  {
+    "student_id": "S1001",
+    "name": "Ravi Kumar",
+    "phone": "+919876543210",
+    "language": "Hindi",
+    "course": "Python Basics",
+    "days_inactive": 7,
+    "progress": 42,
+    "pending_assignments": 3
+  },
+  {
+    "student_id": "S1002",
+    "name": "Ayesha Khan",
+    "phone": "+919812345671",
+    "language": "English",
+    "course": "Data Structures",
+    "days_inactive": 2,
+    "progress": 68,
+    "pending_assignments": 1
+  },
+  {
+    "student_id": "S1003",
+    "name": "Meera Iyer",
+    "phone": "+919900112233",
+    "language": "Tamil",
+    "course": "Web Development",
+    "days_inactive": 10,
+    "progress": 31,
+    "pending_assignments": 4
+  },
+  {
+    "student_id": "S1004",
+    "name": "Arjun Das",
+    "phone": "+919700223344",
+    "language": "Bengali",
+    "course": "Machine Learning",
+    "days_inactive": 5,
+    "progress": 55,
+    "pending_assignments": 2
+  },
+  {
+    "student_id": "S1005",
+    "name": "Sofia Morales",
+    "phone": "+14155550123",
+    "language": "Spanish",
+    "course": "AI Fundamentals",
+    "days_inactive": 1,
+    "progress": 84,
+    "pending_assignments": 0
+  }
+]
